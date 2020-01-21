@@ -28,6 +28,7 @@ If a <<secret-token,`secret_token`>> has been configured, it should also apply t
 
 [[agent-config-api-example]]
 [float]
+
 ==== Example
 
 Example Agent configuration request including the service name "test-service":
